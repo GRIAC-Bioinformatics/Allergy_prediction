@@ -12,9 +12,9 @@ Chengjian Xu: Xu.Chengjian@mh-hannover.de <br>
 
 ## Content of the scripts used in this project
 ### 1. The scripts of model build (folder "Main")
-* model_validation_main.R (generating the main model or apply this model to another dataset)
+* model_validation_main.R (generating the main model or apply 3-CpG site model to another dataset)
 * support functions
-* validation_model.rds (final 3-CpG site model)
+* validation_model.rds (final 3-CpG site model, can be used to predict allergy/non-allergy in another dataset using code from model_validation_main.R)
 
 ### 2. The scripts of main figures (folder "Figures")
 * boxplot of sub-phenotype analysis
