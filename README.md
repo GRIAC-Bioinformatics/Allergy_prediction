@@ -5,10 +5,10 @@ Childhood allergic diseases, including asthma, rhinitis and eczema, are prevalen
 
 Link to the paper:
 
-Contact:
-Merlijn van Breugel: MvanBreugel@micompany.nl
-Cancan Qi: tracyqican@gmail.com
-Chengjian Xu: Xu.Chengjian@mh-hannover.de
+Contact: <br>
+Merlijn van Breugel: MvanBreugel@micompany.nl <br>
+Cancan Qi: tracyqican@gmail.com <br>
+Chengjian Xu: Xu.Chengjian@mh-hannover.de <br>
 
 ## Content of the scripts used in this project
 ### 1. The scripts of model build (folder "Main")
